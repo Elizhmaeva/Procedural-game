@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI
+  - Hearts
+  - Enemy
+  - Dungeon
+  - Key
+  - Skeletrax
+  - PlayerAttack
+  - Settings
+  - TileMap
+  - Health
+  - Wall
+  - BossHP
+  - BossHPSlider
+  - BossHPName
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - World Boundary
+  - MiniMap
+  - Characters
+  - Enemies
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2087383287
+    locked: 0
+  - name: Player
+    uniqueID: 440034605
+    locked: 0
+  - name: Walls
+    uniqueID: 3591425647
+    locked: 0
+  - name: MiniMap Elements
+    uniqueID: 256749757
+    locked: 0
+  - name: Enemies
+    uniqueID: 3191178685
+    locked: 0
